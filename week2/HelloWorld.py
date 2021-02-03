@@ -1,5 +1,5 @@
 #Hello World
 #Prints, "Hello World"
-#Authour: Jon Ishaque
+#Author: Jon Ishaque
 print ("Hello World\nHow are you today?")
 

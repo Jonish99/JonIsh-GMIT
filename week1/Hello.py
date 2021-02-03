@@ -1,1 +1,3 @@
-print("Hellow, literally, the world!")
+#First prog!
+#Author Jon Ishaque
+print("Hello  world!")

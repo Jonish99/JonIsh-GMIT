@@ -1,8 +1,8 @@
 
     #A program tha will read a file an count how many times
-    #it has been run. I tiwll do this by saving incrementing the count in separate file. 
+    #it has been run. It will do this by saving incrementing the count in separate file. 
     #The program will open the file, read the file and write to the file
-    #The program will also test to see if the file it exists, if it does not it will create it with a '0' writter
+    #The program will also test to see if the file it exists, if it does not it will create it with a '0' writer
 
 #imports
 import os.path

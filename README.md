@@ -183,12 +183,35 @@ Week 06 files demonstrate the development of a student management system using f
     This version: Add choices as function dictionary
 
 ## Week 07 files
+    
+    Initially I had difficulty opening files without using absolute paths in the open()function. From 7-1 studentManagementProgram.py and going forwayd
+    I will use os.path and sys functions to get the file path so files can be run from the same directory on any system.
 
-# 7 - a readAfile.py
+# 7_a_readAfile.py
 
-    A program tha will read a file an count how many times
+    A program that will read a file an count how many times
     it has been run. I tiwll do this by saving incrementing the count in separate file. 
     The program will open the file, read the file and write to the file
+# 7_a_readAfile-extension.py
+
+    A program tha will read a file an count how many times
+    it has been run. It will do this by saving incrementing the count in separate file. 
+    The program will open the file, read the file and write to the file
+    The program will also test to see if the file it exists, if it does not it will create it with a '0' writer
+
+# 7_json_1_read.py
+    A file with opens a json file with an existing dictionary to demontrate how json can read into a dictionary file structure
+
+
+# 7_json_1_write.py
+    A file with opens a json file to demontrate how a json file can be used to store a dictionary file structure
+
+# 7-1 studentManagementProgram.py
+    extended version of week 6 student management program. This program now reads and writes the student list (and its dictionaries) to a json file.
+    it also uses accesses the system path for the file open function as on this system there were problems
+
+
+
 
     Week 07 references
 

@@ -187,11 +187,7 @@ Week 06 files demonstrate the development of a student management system using f
     Initially I had difficulty opening files without using absolute paths in the open()function. From 7-1 studentManagementProgram.py and going forwayd
     I will use os.path and sys functions to get the file path so files can be run from the same directory on any system.
 
-# 7_a_readAfile.py
 
-    A program that will read a file an count how many times
-    it has been run. I tiwll do this by saving incrementing the count in separate file. 
-    The program will open the file, read the file and write to the file
 # 7_a_readAfile-extension.py
 
     A program tha will read a file an count how many times
@@ -200,7 +196,7 @@ Week 06 files demonstrate the development of a student management system using f
     The program will also test to see if the file it exists, if it does not it will create it with a '0' writer
 
 # 7_json_1_read.py
-    A file with opens a json file with an existing dictionary to demontrate how json can read into a dictionary file structure
+    A file with opens a json file with an existing dictionary to demontrate how json can read from a dictionary file structure from a json file
 
 
 # 7_json_1_write.py
